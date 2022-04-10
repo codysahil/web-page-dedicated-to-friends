@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>MY FRIENDS</title>
+  <style>
+  body{
+    background-color: RGB(146, 168, 209);
+  }
+  
+.navbar{
+  background-color: black;
+  border-radius: 30px;
+  
+  
+}
+  .navbar li{
+    float: left;
+    list-style: none;
+    padding: 4px 4px;
+    margin: 20px 30px;
+    color: white;
+    font-weight: bold;
+  }
+  .navbar ul{
+    overflow: auto;
+  }
+  .navbar li:hover{
+    color: red;
+  }
+  .container{
+    background-color:  #b6b6c8;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    height: 1800px;
+  }
+  .container h2{
+    margin-top: 0px;
+    color: white;
+    font-family: "Lucida Console","Courier new",monospace;
+    font-size: 210%
+  }
+  .container p{
+    font-family: "Lucida Console","courier new",monospace;
+    color: black;
+    font-size:250%;
+    text-align: center;
+   
+    
+  }
+  footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  #aayu{
+    color: black;
+  }
+  #mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    color: black;
+  }
+ .container p:hover{
+   color: white;
+ }
+  .container img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    widhth: 50%;
+    border-radius: 20px;
+  }
+  
+.container img{
+flex-basis: 50%;
+animation: animate 3s linear infinite;
+}
+@keyframes animate{
+0%{
+transform: scale(1.1);
+}
+50%{
+transform: scale(1);
+}
+100%{
+transform: scale(1.1);
+}
+} 
+ 
+</style>
+  </head>
+<body>
+  <header>
+    <nav class="navbar">
+      <ul>
+        <li>WE</li>  
+        <li>ARE</li>
+        <li>FAMILY</li> 
+        
+      </ul>
+      
+      
+      
+      
+      
+      
+    
+    
+    </nav>
+  </header>
+  <div id="mid">
+    <h1>MY FRIENDS</h1>
+  </div>
+  <div class="container">
+    
+    <h2>Navneet(IITian)</h2>
+    <a href="https://ibb.co/d0v1GSF"><img src="https://i.ibb.co/hRNhDkb/Navneet.jpg" alt="Navneet" border="0"></a><br /><a target='_blank' href='https://500pxdownload.com/'width="150px"></a>
+    <p>We are friends since 2010. we studied together in the same school.
+     He is more intelligent than me ,we lived together in kota for almost 2 years,where we faced some ups and down between us.
+      we share everything from ..like how many times we masturbate ,who is our crush ,whom i like the most,what we are going to do in life.
+      But now we are in diffrent colleges..but we have a good communication between us.From school friends to lifetime friends we came a long way.
+    The only advice i give to you is Dont spend too much time in bathroom.
+    </p>
+    
+  </div>
+  <div class="container">
+    <h2>Aayush(Future'IAS')</h2>
+    <a href="https://ibb.co/M9Nqnf7"><img src="https://i.ibb.co/25KXqSd/IMG-20211231-WA0003.jpg" alt="IMG-20211231-WA0003" border="0"></a>
+    <p id="aayu">We are best friends since class 8.But in a very short span of time we became a very good friends.We played together,studied together,laughed together.
+      We have a very good bonding,we talk to each other regulary we share things that whatever is happening with us ,from this to that.He is preparing for civil services.
+      I wish he become successful as soon as possible.We are brother from another mother.
+      The only advice i give to you is dont give So much "duniya bhar ka gyaan"
+      
+    </p>
+  </div>
+  <div class="container">
+    
+    <h2>Nitish</h2>
+    <a href="https://ibb.co/dLf2vX6"><img src="https://i.ibb.co/RBg0KtP/FB-IMG-1643436674964.jpg" alt="FB-IMG-1643436674964" border="0"height="700px"></a>
+    <p>We are friends since childhood.Learned ABCD..together,leanred how to make a girlfriend together,and many more.
+      In childhood the only thing we do is to play cricket.We both prepared for JEE but none of us got selected,now he is preparing for civil services
+      and he will also get success very soon.The only advice i give to you is "Sab Moh Maaya Hai",if you know you know.
+    </p>
+    
+  </div>
+  
+  <div class="container">
+    <h2>Aman(Bhunash)</h2>
+    <a href="https://ibb.co/T0LJ67M"><img src="https://i.ibb.co/PWQJKPG/Screenshot-20220129-122801-Facebook.jpg" alt="Screenshot-20220129-122801-Facebook" border="0"></a>
+    <p>We are friends since class 6.we are very good friends,he is doing engineering in same branch in which i am .He is very hardworking but fortune fucked him many times.
+      He disappeared from us for 2 years for some personal reasons,He cooks very well.
+      we used to go coaching classes together and stalk girls too.the only advice i give to you is "Fursat nikal bhai aur mila kar".
+    </p>
+  </div>
+  <div class="container">
+    <h2>Manish</h2>
+    <a href="https://ibb.co/fMYWxsY"><img src="https://i.ibb.co/CB5yHf5/20211112-080859.jpg" alt="20211112-080859" border="0"></a>
+    <p>A friend in need is a friend indeed.Whenever i need money i call him ..he sents immediately if he need then i sent him.
+      we are childhood friends,but have no communication for 10 years,but now we met everyday,we roam in our village together,have some street food together.
+      the only advice i give to you is"Chod de bhai sab moh maaya hai".
+    </p>
+  </div>
+  
+  <footer>Written and developed by SAHIL</footer>
+</body/>
+</html>
